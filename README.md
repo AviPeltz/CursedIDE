@@ -2,10 +2,9 @@
 
 > An AI coding-agent IDE — implemented in Verilog.
 
-CursedIDE is a hardware-described code editor for the AI agents era. Inspired
-by [Superset](https://github.com/superset-sh/superset) and Conductor — tools
-that let you run an army of Claude Code, Codex, and friends on your machine —
-CursedIDE asks the question nobody asked:
+CursedIDE is a hardware-described code editor for the AI agents era. It lets
+you run an army of Claude Code, Codex, and friends on your machine — and asks
+the question nobody asked:
 
 **What if the IDE itself were a chip?**
 
