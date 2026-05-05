@@ -1,0 +1,19 @@
+# Icarus Verilog build artifacts
+build/
+*.vvp
+*.vcd
+*.fst
+*.lxt
+
+# Editor/OS
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Synthesis (future)
+*.json
+*.asc
+*.bit
+*.bin
